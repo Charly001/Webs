@@ -1,2 +1,2 @@
 # Webs
-This is and old version used only for backup proposes.
+This is and old version used only for backup purposes.
